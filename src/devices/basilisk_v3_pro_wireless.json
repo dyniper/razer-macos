@@ -1,0 +1,15 @@
+{
+  "name": "Razer Basilisk V3 Pro Wireless",
+  "productId": "0x00AB",
+  "mainType": "mouse",
+  "image": "https://assets2.razerzone.com/images/pnx.assets/62dd52710c7316e57f1107a6d8a0a14d/razer-basilisk-v3-pro.png",
+  "features": null,
+  "featuresConfig": [
+    {
+      "dpi": {
+        "max": 20000
+      }
+    }
+   
+  ]
+}
